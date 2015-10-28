@@ -1,0 +1,11 @@
+- type: button
+  title: Docs
+  link: /docs/
+
+- type: dropdown
+  title: Info
+  subcategories:
+    - subtitle: About
+      sublink: /info/about/
+    - subtitle: Contribute
+      sublink: /info/contrib/
