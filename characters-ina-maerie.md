@@ -1,49 +1,39 @@
 ---
-title: Ina Maerie
+title: Ina Maerie 
 layout: default
 ---
-    <div class="container-fluid">
+{::options parse_block_html="true" /}
+<div class="row">
+<div class="col-md-3">
+<div class="panel panel-default no-padding">
+<div class="panel-heading">
+{{ page.title}}
+</div>
+<div class="panel-body">
+</div>
+<div class="panel-body">
+{::options parse_block_html="true" /}
 
-        <div class="row">
-            <div class="col-md-12">
-                <div class="well">
 
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="text-right">
-                                <ol class="breadcrumb breadcrumb-white">
-                                    <li>
-                                        <a href="index.html" class="">Home</a>
-                                    </li>
-                                    <li>
-                                        <a href="characters.html" class="">Characters</a>
-                                    </li>
-                                    <li>
-                                        <a href="characters-ina-maerie.html" class="active">{{ page.title }}</a>
-                                    </li>
-                                </ol>
-                            </div>
-                        </div>
-                    </div>
+Nickname | Ina 
+Age | 
+Race | Dark Elf 
+Gender | Female
+Date of Birth | 
+Height | 
+Blood Type | 
+Occupation | 
+Relatives | 
 
-                    <div class="row">
-                        
-                        <div class="col-md-3">
-                            <div class="panel panel-default">
-                                <div class="panel-heading">{{ page.title }}</div>
-                                <div class="panel-body"></div>
-                            </div>
-                        </div>
-                        
-                        <div class="col-md-9">
-                            <div class="well well-white">
-                            </div>
-                        </div>
-                        
-                    </div>
 
-                </div>
-            </div>
-        </div>
+</div>
+</div>
+</div>
+<div class="col-md-9">
+{::options parse_block_html="true" /}
 
-    </div>
+
+
+
+</div>
+</div>
