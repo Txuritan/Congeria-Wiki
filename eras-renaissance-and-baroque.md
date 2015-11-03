@@ -1,5 +1,5 @@
 ---
-title: Renaissance
+title: Renaissance and Baroque 
 layout: default
 ---
 
