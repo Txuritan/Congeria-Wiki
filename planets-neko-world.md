@@ -1,10 +1,8 @@
 ---
-title: Neko World
+title: Neko World 
 layout: default
 ---
-
 {::options parse_block_html="true" /}
-
 <div class="row">
 <div class="col-md-3">
 <div class="panel panel-default no-padding">
@@ -14,17 +12,16 @@ layout: default
 <div class="panel-body">
 </div>
 <div class="panel-body">
-  
 {::options parse_block_html="true" /}
 
-Capital | XXX
-Official language | XXX
-Inhabitance | Nekos
-Governmnet | Communism
-Head-of-State | Tom
-Founded | XXX
-Curencey | Shiny stuff
-
+Star | 
+Position towards star | 
+Orbit | 
+Temprature | 
+Climate | 
+Moons | L
+Points of interest | 
+Race(s) | 
 
 </div>
 </div>
@@ -32,7 +29,9 @@ Curencey | Shiny stuff
 <div class="col-md-9">
 {::options parse_block_html="true" /}
 
-Neko World Empire came into existence after the neko princess [Blank] overthrew her fathers [Blanks] throne (A tyrant over the [Blank] kingdom) she was look upon as a revolutionary and soon reformed and created the empire becomming empress. It wasn't easy becomming the ruler of an entire realm, it took many years for her to succesfully unite every kingdom and against Dragoran rule.
+
+To be honnest we have no info on this world what so ever.
+
 
 </div>
 </div>
