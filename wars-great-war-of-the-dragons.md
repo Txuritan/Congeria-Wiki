@@ -1,6 +1,6 @@
 
 ---
-title: War of the Dragons
+title: Great War of the Dragons
 layout: default
 ---
 
