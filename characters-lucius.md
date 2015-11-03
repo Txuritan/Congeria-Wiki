@@ -1,5 +1,5 @@
 ---
-title: Alliana Linnan
+title: Lucius 
 layout: default
 ---
 {::options parse_block_html="true" /}
@@ -15,14 +15,6 @@ layout: default
 {::options parse_block_html="true" /}
 
 
-Nickname | Alla
-Age | 2 (24 in cat years)
-Birthday | 13/32/XX
-Gender | Female
-Height | 4ft 9in
-Blood Type | C
-Occupation | Strategist
-Relatives | [Taeh Osearr (Cloning Father)](/characters-taeh-osearr.html)<br/>[Kristian Phyno (Cloning Mother)](/characters-kristian-phyno.html)<br/>[Nurosira Freluv (Cloning Sister)](/characters-nurosira-freluv.html)
 
 
 </div>
