@@ -27,7 +27,7 @@ Spans | XXX Years
   
 {::options parse_block_html="true" /}
 
-The classical era was a time of one of the greatest times in history, i expanded some of the most well known legends that took place from Lucius deafeting Alpha to Eden becoming emperor and overlord and eventually being defeated by Kronos. 
+The classical era was a time of some of the most biggest events in history that took place from Lucius deafeting Alpha to Eden becoming emperor and overlord and eventually being defeated by Kronos. 
 
 </div>
 </div>
