@@ -31,7 +31,7 @@ Family | Kadra (Wife)
 Appearance | 
 Height | 6ft 3in 
 Weight | 163Ib 
-Blood Type | EEE23
+Blood Type | 
 Strength | 
 Measurements | 
 Clothes Sizes | 
