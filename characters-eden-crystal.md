@@ -19,7 +19,7 @@ layout: default
 
 Nickname | Eden
 Age | Yes
-Birthday | 5/28/??
+Birthday | 5/28/XX
 Gender | Male
 Height | 7ft 6in
 Blood Type | Yes
