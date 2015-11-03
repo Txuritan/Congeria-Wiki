@@ -16,10 +16,10 @@ layout: default
 
 Star | 
 Position towards star | 4rth planet 
-Orbit | 1,825 earth days 
-Temprature | 
+Orbit | 1,825 earth days
+Temprature | 59 degrees F 
 Climate | Temperate 
-Moons | 
+Moons | It has two moons 
 Points of interest | 
 Race(s) | Ewyn Elves <br /> Desert Elves <br /> Dwarves <br /> Forest Elves 
 
