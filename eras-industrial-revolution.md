@@ -2,7 +2,9 @@
 title: Industrial Revolution
 layout: default
 ---
+
 {::options parse_block_html="true" /}
+
 <div class="row">
 <div class="col-md-3">
 <div class="panel panel-default no-padding">
@@ -12,21 +14,17 @@ layout: default
 <div class="panel-body">
 </div>
 <div class="panel-body">
+  
 {::options parse_block_html="true" /}
 
 Time Frame | 1750s - 1910s
-
-
 
 </div>
 </div>
 </div>
 <div class="col-md-9">
+  
 {::options parse_block_html="true" /}
-
-
-
-
 
 </div>
 </div>
