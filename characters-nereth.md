@@ -3,9 +3,7 @@ title: Nereth
 layout: default
 ---
 
-
 {::options parse_block_html="true" /}
-
 
 <div class="row">
 <div class="col-md-3">
@@ -17,9 +15,7 @@ layout: default
 </div>
 <div class="panel-body">
   
-  
 {::options parse_block_html="true" /}
-  
   
 Nickname | Nereth
 Age | 
@@ -60,10 +56,7 @@ Parents | Not known
 </div>
 <div class="col-md-9">
   
-  
 {::options parse_block_html="true" /}
-
-
 
 </div>
 </div>
