@@ -28,7 +28,7 @@ Method of Death | Was stabbed by Liyanin's blade
 Home System | 
 Residence | In the Palace of Elvannia
 Family | Kadra (Wife)
-Appearance | 
+Appearance | The Tekaria Chronicles 
 Height | 6ft 3in 
 Weight | 163Ib 
 Blood Type | 
