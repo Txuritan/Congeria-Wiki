@@ -1,59 +1,37 @@
 ---
-title: Earthora
+title: Earthora 
 layout: default
 ---
-    <div class="container-fluid">
+{::options parse_block_html="true" /}
+<div class="row">
+<div class="col-md-3">
+<div class="panel panel-default no-padding">
+<div class="panel-heading">
+{{ page.title}}
+</div>
+<div class="panel-body">
+</div>
+<div class="panel-body">
+{::options parse_block_html="true" /}
 
-        <div class="row">
-            <div class="col-md-12">
-                <div class="well">
+Star | 
+Position towards star | 4rth planet 
+Orbit | 1,825 earth days 
+Temprature | 
+Climate | Temperate 
+Moons | 
+Points of interest | 
+Race(s) | Ewyn Elves <br /> Desert Elves <br /> Dwarves <br /> Forest Elves 
 
-                    <div class="row">
-                        
-                        <div class="col-md-12">
-                            
-                            <div class="text-right">
-                                <ol class="breadcrumb breadcrumb-white">
-                                    <li>
-                                        <a href="index.html" class="">Home</a>
-                                    </li>
-                                    <li>
-                                        <a href="planets.html" class="">Planets</a>
-                                    </li>
-                                    <li>
-                                        <a href="planets-earthera.html" class="active">Earthera</a>
-                                    </li>
-                                </ol>
-                            </div>
-                            
-                        </div>
-                        
-                    </div>
+</div>
+</div>
+</div>
+<div class="col-md-9">
+{::options parse_block_html="true" /}
 
-                    <div class="row">
-                        
-                        <div class="col-md-3">
-                            
-                            <div class="panel panel-default">
-                                <div class="panel-heading">Earthora</div>
-                                <div class="panel-body">
-                                </div>
-                            </div>
-                            
-                        </div>
-                        
-                        <div class="col-md-9">
-                            
-                            <div class="well well-white">
-                                <p>Earthora is home to the Ewyen Elves which are a mix race between Wood Elves and Dwarves. It is Dane's Empire and is one of the most advance Empires in the galaxy.</p>
-                            </div>
-                            
-                        </div>
-                        
-                    </div>
 
-                </div>
-            </div>
-        </div>
 
-    </div>
+
+</div>
+</div>
+
