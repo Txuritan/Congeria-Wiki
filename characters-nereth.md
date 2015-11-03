@@ -27,7 +27,7 @@ Date of Death | 305 ADE
 Method of Death | Was stabbed by Liyanin's blade 
 Home System | 
 Residence | In the Palace of Elvannia
-Family | Unknown 
+Family | Kadra (Wife)
 Appearance | 
 Height | 6ft 3in 
 Weight | 163Ib 
@@ -48,8 +48,6 @@ Likes |
 Dislikes | 
 Habits | Loosing his head when someone is getting on his nerves 
 Hobbies | Very skilled with melee weapons (Swords, maces, axes, halberds, spears, pikes) also good with sorcery (flames, fire, shockwaves, freeze time, illusion)
-Relationhsip | Kadra (Wife) 
-Parents | Not known 
 
 </div>
 </div>
