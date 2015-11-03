@@ -33,7 +33,7 @@ Blood Type | C
 Strength | 
 Measurements | 
 Clothes Sizes | 
-Clothing Choices | Wheres hevy iron armor 
+Clothing Choices | Wheres a toga
 Hair Color | Brown 
 Hair Length | Medium 
 Eye Color | Green 
