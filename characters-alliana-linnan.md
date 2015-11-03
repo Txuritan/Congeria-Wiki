@@ -17,7 +17,7 @@ layout: default
 
 Nickname | Alla
 Age | 2 (24 in cat years)
-Birthday | 13/32/XX
+Birthday | 13/32/4294
 Gender | Female
 Height | 4ft 9in
 Blood Type | C
