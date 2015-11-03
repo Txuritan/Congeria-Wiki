@@ -2,7 +2,9 @@
 title: Rii
 layout: default
 ---
+
 {::options parse_block_html="true" /}
+
 <div class="row">
 <div class="col-md-3">
 <div class="panel panel-default no-padding">
@@ -12,8 +14,8 @@ layout: default
 <div class="panel-body">
 </div>
 <div class="panel-body">
+  
 {::options parse_block_html="true" /}
-
 
 Nickname | Rii
 Age | 4 (1868) <br /> 17 (1881)
@@ -24,15 +26,12 @@ Blood Type | O
 Occupation | Beta (Of the wolf pack)
 Relatives | [Quris (Father)]() <br /> [>Bella (Mother)]() <br /> [ (Adopted Father)]() <br /> [ (Adopted Mother)]() <br /> [Kam (Adopted Brother)](/characters-kam.html)
 
-
 </div>
 </div>
 </div>
 <div class="col-md-9">
+  
 {::options parse_block_html="true" /}
-
-
-
 
 </div>
 </div>
