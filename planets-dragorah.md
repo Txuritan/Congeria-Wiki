@@ -18,10 +18,10 @@ Star |
 Position towards star | 
 Orbit | 
 Temprature | 
-Climate | 
-Moons | 
+Climate | Volcanic/tundra
+Moons | 9 moons
 Points of interest | 
-Race(s) | Dragorans 
+Race(s) | Dragorans <br /> Dragons <br /> Humans (Slaves) <br /> Dark Elves (Slaves 
 
 </div>
 </div>
