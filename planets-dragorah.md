@@ -21,7 +21,7 @@ Temprature |
 Climate | Volcanic/tundra
 Moons | 9 moons
 Points of interest | 
-Race(s) | Dragorans <br /> Dragons <br /> Humans (Slaves) <br /> Dark Elves (Slaves 
+Race(s) | Dragorans <br /> Dragons <br /> Humans (Slaves) <br /> Dark Elves (Slaves) 
 
 </div>
 </div>
