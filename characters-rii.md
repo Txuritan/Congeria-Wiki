@@ -33,5 +33,7 @@ Relatives | [Quris (Father)]() <br /> [>Bella (Mother)]() <br /> [ (Adopted Fath
   
 {::options parse_block_html="true" /}
 
+It was in 1863 the captain of the Destiny, a ship of Tigaga origins, was very hash towards the other staff on board. The staff tried tried their best to make the captain happy but to no vail. 
+
 </div>
 </div>
