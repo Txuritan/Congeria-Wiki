@@ -1,5 +1,5 @@
 ---
-title: Future
+title: Colonial Age
 layout: default
 ---
 
