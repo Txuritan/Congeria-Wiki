@@ -1,5 +1,5 @@
 ---
-title: Modern
+title: Late Middle Ages
 layout: default
 ---
 
