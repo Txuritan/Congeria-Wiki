@@ -15,19 +15,19 @@ layout: default
 {::options parse_block_html="true" /}
 
 
-Nickname | Tutrok
-Age | Over 5,000 years old
-Race | Olympian (Robot) 
-Gender | Male 
-Date of Birth | C 3,000 BDE
-Place of Birth | Olympia 
+Nickname | Tutrok 
+Age | ???
+Race | AHAB Assembled Home-Assasitant Bot mod. 2003
+Gender | M 
+Date of Birth | ???
+Place of Birth | Catland 
 Date of Death | ???
 Method of Death | ???
-Home System | Beta Starlight 
-Residence | Victorian house in Catland
-Family | Samacus (Brother) 
-Appearence | 
-Height | 5ft 2in
+Home System | ???
+Residence | ???
+Family | ???
+Appearence | short/blocky/bold/silver
+Height | 3ft 2in
 Weight | 1 ton 
 Blood Type | 
 Strength | Can't fight for himself but his steel skin is undestructable 
@@ -39,19 +39,19 @@ Hair Length | None
 Eye Color | Silver
 Markings | 
 Education | 
-Work History | 
-Skills |
+Work History | Assembled Home-Assistant Bot 
+Skills | plays chest/reads lots of books
 Fears | Falling off steps/getting hit by stuff/falling/just about anything that looks scary
 Likes | Comic books/video games/building stuff/time traveling/being with his friends
-Dislikes | Stairs/being called a noob/loosing/falling
-Habits | 
-Hobbies | Collecting comic books/building crazy inventions 
-Luck | Not a lot 
+Dislikes | stairs/being called a noob/loosing/falling
+Habits | always falls off of stuff 
+Hobbies | collecting comic books/building crazy inventions 
+Luck | not a lot 
 Quirks |
 Best Qualities |
 Worst Qualities |
 Ethics |
-Style of Speech | Robotic slow deep voice 
+Style of Speech | robotic slow deep voice 
 Other | 
 
 
