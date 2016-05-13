@@ -17,7 +17,7 @@ layout: default
 
 Nickname | Tutrok 
 Age | ???
-Race | AHAB Assembled Home-Assasitant Bot mod. 2003
+Race | AHAB Assembled Home-Assistant Bot mod. 2003
 Gender | M 
 Date of Birth | ???
 Place of Birth | Catland 
