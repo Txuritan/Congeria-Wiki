@@ -1,5 +1,5 @@
 ---
-title: Renaissance and Baroque 
+title: Early Middle Ages 
 layout: default
 ---
 
