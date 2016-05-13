@@ -1,20 +1,20 @@
 - type: dropdown
   title: "Eras (ALL)"
   subcategories:
-    - subtitle: "Ancient (TKI Chronicles)"
+    - subtitle: "Ancient"
       sublink: eras-ancient.html
-    - subtitle: "Classical (TKI Chronicles)"
+    - subtitle: "Classical"
       sublink: eras-classical.html
-    - subtitle: "Medieval (TKI Chronicles)"
+    - subtitle: "Medieval"
       sublink: eras-medieval.html
-    - subtitle: "Renaissance (TKI Chronicles)"
+    - subtitle: "Renaissance"
       sublink: eras-renaissance.html
-    - subtitle: "Industrial Revolution (TKI Chronicles)"
+    - subtitle: "Industrial Revolution"
       sublink: eras-industrial-revolution.html
-    - subtitle: "Modern (TKI Chronicles)"
-      sublink: eras-modern.html
-    - subtitle: "Future (TKI-101)"
-      sublink: eras-future.html
+    - subtitle: "Atomic Era"
+      sublink: eras-atomic-era.html
+    - subtitle: "Present"
+      sublink: eras-present.html
 
 - type: dropdown
   title: "Character (ALL)"
