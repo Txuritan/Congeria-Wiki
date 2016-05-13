@@ -1,5 +1,5 @@
 ---
-title: Industrial Revolution
+title: High Middle Ages
 layout: default
 ---
 
@@ -17,7 +17,6 @@ layout: default
   
 {::options parse_block_html="true" /}
 
-Time Frame | 1750s - 1910s
 
 </div>
 </div>
